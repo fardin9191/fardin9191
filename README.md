@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Fardin Ahmed</h1>
-<h3 align="center">A passionate undergrad student from buet</h3>
+<h3 align="center">Currently optimizing photons… and my sleep schedule</h3>
 
 
-- 🌱 I’m currently learning **Advanced deep learning**
+- 🌱 Currently exploring experimental photonics — focusing on creating stable, high-purity quantum qubits.
 
-- 📫 How to reach me **fardinpranto005@gmail.com**
+- 📫 How to reach me **md-fardin.ahmed@inrs.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
