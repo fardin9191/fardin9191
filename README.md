@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Fardin Ahmed</h1>
-<h3 align="center">Currently optimizing photons… and my sleep schedule</h3>
+<h3 align="center">Currently optimizing photons… and my sleep schedule :( </h3>
 
 
-- 🌱 Currently exploring experimental photonics — focusing on creating stable, high-purity quantum qubits.
+- 🌱 Working on experimental photonics — focusing on creating stable, high-purity quantum qubits.
 
 - 📫 How to reach me **md-fardin.ahmed@inrs.ca**
 
