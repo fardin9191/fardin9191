@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Fardin Ahmed</h1>
-<h3 align="center">Currently optimizing photons… and my sleep schedule :( </h3>
+<h3 align="center">Currently playing with photons… and my sleep schedule :( </h3>
 
 
 - 🌱 Working on experimental photonics — focusing on creating stable, high-purity quantum qubits.
