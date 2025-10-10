@@ -6,7 +6,7 @@
 
 - 🌱 Working on experimental photonics — focusing on creating stable, high-purity quantum qubits.
 
-- 📫 How to reach me **md-fardin.ahmed@inrs.ca**
+- 📫 How to reach me **fardinpranto005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
